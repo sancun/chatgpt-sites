@@ -9,13 +9,23 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://modelscope.cn/](https://modelscope.cn/)
-1. [https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk)
-1. [http://chat.cutim.top/](http://chat.cutim.top/)
-1. [https://sofast.ai/chat](https://sofast.ai/chat)
-1. [https://bobnewby.eu.org/](https://bobnewby.eu.org/)
+1. [https://app.haitunchat.com/](https://app.haitunchat.com/)
+1. [https://chat.wobcw.com/](https://chat.wobcw.com/)
+1. [https://smartchat.yihezu.cn/](https://smartchat.yihezu.cn/)
+1. [https://35.maogou.xyz/](https://35.maogou.xyz/)
 1. [https://chat.clandoom.com/](https://chat.clandoom.com/)
-1. [https://chat.colorfuldora.xyz/](https://chat.colorfuldora.xyz/)
+1. [https://chat.ermc.ga/](https://chat.ermc.ga/)
+1. [https://chat.h-t-m.com/](https://chat.h-t-m.com/)
+1. [https://chat.hsinforever.life/](https://chat.hsinforever.life/)
+1. [https://chat.iv16sl.xyz/](https://chat.iv16sl.xyz/)
+1. [https://chat.jzwang.top/](https://chat.jzwang.top/)
+1. [https://chat.laizn.com/](https://chat.laizn.com/)
+1. [https://chat.minebot.org/](https://chat.minebot.org/)
+1. [https://chat.pinw.ca/](https://chat.pinw.ca/)
+1. [https://chat.vanav.eu.org/](https://chat.vanav.eu.org/)
+1. [https://chat.w630.cc/](https://chat.w630.cc/)
+1. [https://chat.xizhibei.me/](https://chat.xizhibei.me/)
+
 
 
 

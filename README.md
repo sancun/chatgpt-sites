@@ -9,8 +9,6 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://chatbot2.bokshun.com/](https://chatbot2.bokshun.com/)
-1. [https://gpt.ppqq.me/](https://gpt.ppqq.me/)
 1. [https://iwangpo.com/](https://iwangpo.com/)
 1. [https://manshuiju.cn/](https://manshuiju.cn/)
 1. [https://www.manshuiju.cn/](https://www.manshuiju.cn/)
@@ -47,7 +45,6 @@
 1. [https://chatgpt.moeyy.cn/](https://chatgpt.moeyy.cn/)
 1. [https://chatgpt.notemi.cn/](https://chatgpt.notemi.cn/)
 1. [https://chatgpt.oeerp.com/](https://chatgpt.oeerp.com/)
-1. [https://chatgpt.outshine.me/](https://chatgpt.outshine.me/)
 1. [https://chatgpt.rainpyc.com/](https://chatgpt.rainpyc.com/)
 1. [https://chatgpt.zhanhongzhu.top/](https://chatgpt.zhanhongzhu.top/)
 1. [https://chatmeta.top/](https://chatmeta.top/)
@@ -55,15 +52,28 @@
 1. [https://demo.tomda.top/](https://demo.tomda.top/)
 1. [https://dusk.chat/](https://dusk.chat/)
 1. [https://gpt.sheepig.top/chat](https://gpt.sheepig.top/chat)
+1. [https://guanerstudent-project-demo.netlify.app/](https://guanerstudent-project-demo.netlify.app/)
 1. [https://gyhui.cn/](https://gyhui.cn/)
 1. [https://hub.docker.com/r/quzard/chatgpt-demo](https://hub.docker.com/r/quzard/chatgpt-demo)
 1. [https://majiangnp.top/](https://majiangnp.top/)
 1. [https://miao.dtsci.cn/](https://miao.dtsci.cn/)
-1. [https://mychat.icu/](https://mychat.icu/)
 1. [https://plus.wxredcover.cn/](https://plus.wxredcover.cn/)
 1. [https://starryu.cn/](https://starryu.cn/)
 1. [https://susu.email/](https://susu.email/)
 1. [https://tool.aitravelmanager.com/](https://tool.aitravelmanager.com/)
+1. [https://www.aiartchat.live/](https://www.aiartchat.live/)
+1. [https://www.chatgpt-zhong.love/](https://www.chatgpt-zhong.love/)
+1. [https://www.chatgpt.rainpyc.com/](https://www.chatgpt.rainpyc.com/)
+1. [https://www.chatmeta.top/](https://www.chatmeta.top/)
+1. [https://www.dusk.chat/](https://www.dusk.chat/)
+1. [https://www.gptbt.top/](https://www.gptbt.top/)
+1. [https://www.meout.app/](https://www.meout.app/)
+1. [https://www.mychat.icu/](https://www.mychat.icu/)
+1. [https://www.ok1314.cn/](https://www.ok1314.cn/)
+1. [https://www.starryu.cn/](https://www.starryu.cn/)
+1. [https://www.tomda.top/](https://www.tomda.top/)
+1. [https://www.ytliu.top/](https://www.ytliu.top/)
+
 
 
 

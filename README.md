@@ -10,7 +10,6 @@
 
 # ChatGPT 在线体验网站列表
 1. [http://chat.cutim.one/](http://chat.cutim.one/)
-1. [https://35.maogou.xyz/](https://35.maogou.xyz/)
 1. [https://chat.h-t-m.com/](https://chat.h-t-m.com/)
 1. [https://chat.pinw.ca/](https://chat.pinw.ca/)
 1. [https://chatbot2.bokshun.com/](https://chatbot2.bokshun.com/)

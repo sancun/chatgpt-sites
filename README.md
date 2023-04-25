@@ -9,10 +9,15 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://moeyy.cn/chatgpt/](https://moeyy.cn/chatgpt/)
-1. []()
-1. []()
-1. []()
+1. [https://modelscope.cn/](https://modelscope.cn/)
+1. [https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk)
+1. [http://chat.cutim.top/](http://chat.cutim.top/)
+1. [https://sofast.ai/chat](https://sofast.ai/chat)
+1. [https://bobnewby.eu.org/](https://bobnewby.eu.org/)
+1. [https://chat.clandoom.com/](https://chat.clandoom.com/)
+1. [https://chat.colorfuldora.xyz/](https://chat.colorfuldora.xyz/)
+
+
 
 ## 声明
 

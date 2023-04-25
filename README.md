@@ -9,7 +9,6 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://chat.ermc.ga/](https://chat.ermc.ga/)
 1. [https://chat.h-t-m.com/](https://chat.h-t-m.com/)
 1. [https://chat.iv16sl.xyz/](https://chat.iv16sl.xyz/)
 1. [https://chat.pinw.ca/](https://chat.pinw.ca/)

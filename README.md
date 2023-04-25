@@ -9,7 +9,6 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [http://home.cutim.top/](http://home.cutim.top/)
 1. [https://35.maogou.xyz/](https://35.maogou.xyz/)
 1. [https://chat.ermc.ga/](https://chat.ermc.ga/)
 1. [https://chat.h-t-m.com/](https://chat.h-t-m.com/)

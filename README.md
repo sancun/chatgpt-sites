@@ -9,12 +9,6 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://iwangpo.com/](https://iwangpo.com/)
-1. [https://manshuiju.cn/](https://manshuiju.cn/)
-1. [https://www.manshuiju.cn/](https://www.manshuiju.cn/)
-1. [https://www.ziyuandaili.com/](https://www.ziyuandaili.com/)
-1. [https://achieve-dream.netlify.app/](https://achieve-dream.netlify.app/)
-1. [https://ai-toolbox.codefuture.top/](https://ai-toolbox.codefuture.top/)
 1. [https://ai.gaodimusic.com/](https://ai.gaodimusic.com/)
 1. [https://ai.ijike.wang/](https://ai.ijike.wang/)
 1. [https://ai.liuks.cn/](https://ai.liuks.cn/)

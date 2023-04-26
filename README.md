@@ -55,8 +55,8 @@
 1. [https://www.mychat.icu/](https://www.mychat.icu/)
 1. [https://www.ok1314.cn/](https://www.ok1314.cn/)
 1. [https://www.starryu.cn/](https://www.starryu.cn/)
-1. [https://www.tomda.top/](https://www.tomda.top/)
-1. [https://www.ytliu.top/](https://www.ytliu.top/)
+1. [https://www.tomda.xyz/](https://www.tomda.xyz/)
+1. [https://chat.aidutu.cn/](https://chat.aidutu.cn/)
 
 
 ## 声明

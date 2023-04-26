@@ -15,12 +15,10 @@
 1. [https://www.tomda.xyz/](https://www.tomda.xyz/)
 1. [https://chat.aidutu.cn/](https://chat.aidutu.cn/)
 1. [https://chat.bigs.top/](https://chat.bigs.top/)
+1. [https://chat.javaex.cn/](https://chat.javaex.cn/)
+
 
 ## 未测试机器自动采集
-
-1. [https://chat.internetip.cn/](https://chat.internetip.cn/)
-1. [https://chat.itos.xin/](https://chat.itos.xin/)
-1. [https://chat.javaex.cn/](https://chat.javaex.cn/)
 1. [https://chat.kcalb.wang/](https://chat.kcalb.wang/)
 1. [https://chat.lovesxq.cn/](https://chat.lovesxq.cn/)
 1. [https://chat.sheg.eu.org/](https://chat.sheg.eu.org/)

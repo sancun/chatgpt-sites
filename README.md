@@ -9,14 +9,9 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-1. [https://ai.gaodimusic.com/](https://ai.gaodimusic.com/)
-1. [https://ai.ijike.wang/](https://ai.ijike.wang/)
-1. [https://ai.liuks.cn/](https://ai.liuks.cn/)
-1. [https://ai.moew.ml/](https://ai.moew.ml/)
-1. [https://ai.youmeng.me/](https://ai.youmeng.me/)
+1. [https://gpt.lbb.ai/](https://gpt.lbb.ai/)
+1. [https://chat.ai.wuguokai.cn](https://chat.ai.wuguokai.cn)
 1. [https://aitools.run/](https://aitools.run/)
-1. [https://chat.189.al/](https://chat.189.al/)
-1. [https://chat.aimz.me/](https://chat.aimz.me/)
 1. [https://chat.bigs.top/](https://chat.bigs.top/)
 1. [https://chat.by-pro.cn/](https://chat.by-pro.cn/)
 1. [https://chat.eryajf.net/](https://chat.eryajf.net/)
@@ -46,15 +41,12 @@
 1. [https://demo.tomda.top/](https://demo.tomda.top/)
 1. [https://dusk.chat/](https://dusk.chat/)
 1. [https://gpt.sheepig.top/chat](https://gpt.sheepig.top/chat)
-1. [https://guanerstudent-project-demo.netlify.app/](https://guanerstudent-project-demo.netlify.app/)
 1. [https://gyhui.cn/](https://gyhui.cn/)
 1. [https://hub.docker.com/r/quzard/chatgpt-demo](https://hub.docker.com/r/quzard/chatgpt-demo)
-1. [https://majiangnp.top/](https://majiangnp.top/)
 1. [https://miao.dtsci.cn/](https://miao.dtsci.cn/)
 1. [https://plus.wxredcover.cn/](https://plus.wxredcover.cn/)
 1. [https://starryu.cn/](https://starryu.cn/)
 1. [https://susu.email/](https://susu.email/)
-1. [https://tool.aitravelmanager.com/](https://tool.aitravelmanager.com/)
 1. [https://www.aiartchat.live/](https://www.aiartchat.live/)
 1. [https://www.chatgpt-zhong.love/](https://www.chatgpt-zhong.love/)
 1. [https://www.chatgpt.rainpyc.com/](https://www.chatgpt.rainpyc.com/)
@@ -67,9 +59,6 @@
 1. [https://www.starryu.cn/](https://www.starryu.cn/)
 1. [https://www.tomda.top/](https://www.tomda.top/)
 1. [https://www.ytliu.top/](https://www.ytliu.top/)
-
-
-
 
 
 ## 声明

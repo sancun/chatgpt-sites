@@ -11,9 +11,7 @@
 # ChatGPT 在线体验网站列表
 1. [https://gpt.lbb.ai/](https://gpt.lbb.ai/)
 1. [https://chat.ai.wuguokai.cn](https://chat.ai.wuguokai.cn)
-1. [https://aitools.run/](https://aitools.run/)
 1. [https://chat.bigs.top/](https://chat.bigs.top/)
-1. [https://chat.by-pro.cn/](https://chat.by-pro.cn/)
 1. [https://chat.eryajf.net/](https://chat.eryajf.net/)
 1. [https://chat.h7ml.cn/](https://chat.h7ml.cn/)
 1. [https://chat.hqts.cn/](https://chat.hqts.cn/)

@@ -9,14 +9,14 @@
 **更新频率：每天晚上**
 
 # ChatGPT 在线体验网站列表
-#已测试
+## 已测试
 1. [https://gpt.lbb.ai/](https://gpt.lbb.ai/)
 1. [https://chat.ai.wuguokai.cn](https://chat.ai.wuguokai.cn)
 1. [https://www.tomda.xyz/](https://www.tomda.xyz/)
 1. [https://chat.aidutu.cn/](https://chat.aidutu.cn/)
 
 
-#未测试机器自动采集
+## 未测试机器自动采集
 1. [https://chat.bigs.top/](https://chat.bigs.top/)
 1. [https://chat.eryajf.net/](https://chat.eryajf.net/)
 1. [https://chat.h7ml.cn/](https://chat.h7ml.cn/)

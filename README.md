@@ -10,13 +10,14 @@
 
 # ChatGPT 在线体验网站列表
 ## 已测试
-1. [https://gpt.lbb.ai/](https://gpt.lbb.ai/)
+1. [https://url.ai-node.com](https://url.ai-node.com)
 1. [https://chat.ai.wuguokai.cn](https://chat.ai.wuguokai.cn)
 1. [https://www.tomda.xyz/](https://www.tomda.xyz/)
 1. [https://chat.aidutu.cn/](https://chat.aidutu.cn/)
 1. [https://chat.bigs.top/](https://chat.bigs.top/)
 1. [https://chat.javaex.cn/](https://chat.javaex.cn/)
-
+1. [https://gpt.ai001.live/](https://gpt.ai001.live/)
+1. [https://hk.ai001.live/](https://hk.ai001.live/)
 
 ## 未测试机器自动采集
 1. [https://chat.kcalb.wang/](https://chat.kcalb.wang/)
